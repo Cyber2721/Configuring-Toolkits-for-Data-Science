@@ -1,7 +1,7 @@
 # Configuring-Toolkits-for-Data-Science with Python and Deep Learning
 This repo contains essentials of Configuring Toolkits for Data Science and Deep Learning (Pandas, DataFrames, Numpy, Scipy, Scikit Learn, Keras, Tensorflow and etc.)
 
-Download Install Python 3.6
+Download and Install Python 3.6
 
 Open CMD on Windows
 
