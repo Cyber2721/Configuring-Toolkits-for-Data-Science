@@ -60,11 +60,26 @@ python -m pip install --upgrade pip --user
 ## Install Tableau with pip
 pip install Tableau --user
 
-## Install ggplot for Data Viz with pip
+## Install ggplot with pip for Data Viz
 pip install ggplot --user
 
-## Install Bokeh for Data Viz with pip
+## Install Bokeh with pip for Data Viz
 pip install Bokeh --user
 
-## Install pygal for Data Viz with pip
+## Install pygal with pip for Data Viz
 pip install pygal --user
+
+## Install folium with pip for Data Viz
+pip install folium --user
+
+## Install Geoplotlib with pip for Data Viz
+pip install Geoplotlib --user
+
+## Install Missingno with pip for Data Viz
+pip install Missingno --user
+
+## Install Gleam with pip for Data Viz
+pip install Gleam --user
+
+## Install altair with pip for Data Viz
+pip install altair --user
