@@ -9,8 +9,8 @@ This repo contains essentials of Configuring Toolkits for Data Science and Deep 
 pip install scipy
 
 ## Install Pandas with pip
-pip install panda
-or pip install panda --user
+pip install pandas
+or pip install pandas --user
 
 ## Install Data Frame with pip
 pip install dataframe
@@ -28,6 +28,9 @@ pip install tensorflow
 ## Install Keras with pip
 pip install keras
 or if it doesn't work because of permission try out with pip install keras --user
+
+## Install Theano with pip
+pip install theano --user
 
 ## Install scikit-learn with pip
 pip install scikit-learn --user
@@ -53,9 +56,6 @@ pip3 install torchvision
 
 ## Upgrade pip Version with pip
 python -m pip install --upgrade pip --user
-
-## Install Theano with pip
-pip install theano --user
 
 ## Install Tableau with pip
 pip install Tableau --user
