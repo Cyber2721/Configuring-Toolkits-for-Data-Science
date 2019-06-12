@@ -41,10 +41,10 @@ pip install sklearn --user
 ## Install Apache Spark with pip
 pip install pyspark --user
 
-##Install Anaconda - perform Python/R data science and ML
+## Install Anaconda - perform Python/R data science and ML
 pip install anaconda --user
 
-##Install NLTK - leading platform for building Python programs to work with human language data
+## Install NLTK - leading platform for building Python programs to work with human language data
 pip install -U nltk --user
 
 
