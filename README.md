@@ -59,7 +59,9 @@ pip install Plotly --user
 
 ## Install PyTorch with pip
 pip3 install https://download.pytorch.org/whl/cpu/torch-1.0.1-cp36-cp36m-win_amd64.whl --user
-or pip3 install torchvision
+
+## image and video datasets and models for torch deep learning
+pip3 install torchvision
 
 ## Upgrade pip Version with pip
 python -m pip install --upgrade pip --user
