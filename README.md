@@ -1,8 +1,8 @@
 # SETTING UP PC ENVIRONMENT FOR DATA SCIENCE, MACHINE LEARNING AND DEEP LEARNING WITH PYTHON
 This repo contains essentials of Configuring Toolkits for Data Science and Deep Learning (Pandas, DataFrames, Numpy, Scipy, Matplotlib, Seaborn, Apache Spark, ScikitLearn, Keras, Tensorflow and etc.)
 
-# DOWLOAD AND INSTALL PYTHON 3.6
-## Download Python 3.6 from Python Official Website, Install it 
+## DOWLOAD AND INSTALL PYTHON 3.6
+### Download Python 3.6 from Python Official Website, Install it 
 
 # OPEN CMD ON WINDOWS (in my case Windows 10)
 ## Open CMD and Change the Directory to where Python is installed
